@@ -1,5 +1,6 @@
 # The URL the site will be built for
 base_url = "https://yuping.io"
+title = "A home"
 
 # Whether to automatically compile all Sass files in the sass directory
 compile_sass = true
@@ -21,7 +22,7 @@ highlight_code = true
 theme = "light"
 socials = []
 custom_css = []
-menu = [{name="/hello", url="/hello"}]
+menu = [{name="hello", url="/"}]
 
 [extra.analytics]
 enabled = false

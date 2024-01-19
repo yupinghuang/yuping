@@ -1,6 +1,5 @@
 +++
-title = "A site"
-paginate_by = 3
+title = "Hello"
 sorted_by = "weight"
-redirect_to = "hello"
 +++
+TLS is cool
