@@ -22,7 +22,10 @@ highlight_code = true
 theme = "light"
 socials = []
 custom_css = []
-menu = [{name="hello", url="/"}]
+menu = [
+    {name="/hello", url="/", weight=1}, 
+    {name="/posts", url="/posts", weight=2}
+]
 
 [extra.analytics]
 enabled = false
